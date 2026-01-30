@@ -1,6 +1,6 @@
 ### This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-Features
+#### Features
 - Multi-format Support: Upload and process PDF, DOCX, and TXT files.
 
 - Smart Chunking: Intelligently splits large documents into manageable sections using LangChain splitters.
@@ -16,14 +16,14 @@ Features
 - Modern UI: Responsive design built with Tailwind CSS.
 
 
-Prerequisites
+#### Prerequisites
 Before you begin, ensure you have:
 
-Node.js 18+ installed.
+- Node.js 18+ installed.
 
-A Supabase account and project.
+- A Supabase account and project.
 
-An OpenAI API Key.
+- An OpenAI API Key.
 
 
 ## Getting Started
