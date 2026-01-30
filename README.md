@@ -84,7 +84,8 @@ $$;
 ```
 
 
-Update all the API accordingly
+### Environment Configuration
+Create a .env.local file in the root directory and add your credentials:
 ```
 NEXT_PUBLIC_SUPABASE_URL=your_supabase_project_url
 NEXT_PUBLIC_SUPABASE_PUBLISHABLE_DEFAULT_KEY=your_supabase_anon_key
