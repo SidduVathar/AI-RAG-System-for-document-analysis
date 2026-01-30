@@ -5,7 +5,7 @@
 
 - Smart Chunking: Intelligently splits large documents into manageable sections using LangChain splitters.
 
-- Semantic Search: Uses OpenAI text-embedding-3-small to find relevant content based on meaning, not just keywords. OpenAI API Replacement guide: Use the Open source LLM models from ollama or huggingface platform or host one withing you system for that you can refer on eof my other repo "A RAG System using Open-Source LLM" 
+- Semantic Search: Uses OpenAI text-embedding-3-small to find relevant content based on meaning, not just keywords. OpenAI API Replacement guide: Use the Open source LLM models from ollama or huggingface platform or host one within your system for that you can refer on of my other repo "A RAG System using Open-Source LLM" 
 
 - Vector Database: High-performance vector similarity search using Supabase (PostgreSQL pgvector).
 
